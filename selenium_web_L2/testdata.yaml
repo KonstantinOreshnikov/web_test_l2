@@ -1,0 +1,9 @@
+address: http://test-stand.gb.ru
+browser: chrome #firefox   #chrome
+sleep_time: 3
+implicitly_wait: 5
+username: Marcus_D
+password: 8bc3c61f89
+url: https://test-stand.gb.ru/posts/create  #for create post
+url2: https://test-stand.gb.ru/user/profile  #for check post
+wait_to_create: 20
